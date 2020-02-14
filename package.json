@@ -1,7 +1,7 @@
 {
   "author": "Washington Botelho",
   "bugs": {
-    "url": "https://github.com/wbotelhos/inplace/issues"
+    "url": "https://github.com/styrken/inplace/issues"
   },
   "contributors": [
     "Washington Botelho <wbotelhos@gmail.com> (http://wbotelhos.com)"
@@ -44,7 +44,7 @@
   "name": "inplace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wbotelhos/inplace"
+    "url": "https://github.com/styrken/inplace"
   },
   "scripts": {
     "test": "node_modules/karma/bin/karma start karma.conf.js"
